@@ -1,4 +1,3 @@
-import logo from './logo.svg';
 import './App.css';
 import WebcamCapture from './components/WebcamCapture';
 import React from 'react';
